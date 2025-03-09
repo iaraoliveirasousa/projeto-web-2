@@ -30,3 +30,28 @@ body {
     height: 120px;
     border-radius: 100%;
 }
+.contato {
+    font-size: 14px;
+    margin: 10px 0;
+}
+.separacao {
+    margin-top: 20px;
+}
+.separacao h2 {
+    color: #333;
+    border-bottom: 2px solid #913a65;
+    padding-bottom: 5px;
+}
+.separacao p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+.separacao ul {
+    list-style: none;
+    padding: 0;
+}
+.separacao ul li {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
