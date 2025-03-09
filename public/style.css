@@ -12,3 +12,21 @@ body {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+.cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 3px solid #913a65;
+    padding-bottom: 10px;
+    background-color: rgb(255, 235, 240);
+}
+.cabecalho h1 {
+    color: #913a65;
+    font-size: 28px;
+    margin: 0;
+}
+.cabecalho img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
